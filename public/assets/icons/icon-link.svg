@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 25 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5d6363;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #ac80ed;
+      }
+
+      .cls-3 {
+        fill: #80edb6;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4, .cls-5 {
+        fill-opacity: .6;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="10.1" y1="1.9" x2="10.1" y2="16.6" gradientTransform="translate(0 26) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity=".3"/>
+      <stop offset=".5" stop-color="gray" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="20" y1="9.9" x2="20" y2="24.2" gradientTransform="translate(0 26) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity=".3"/>
+      <stop offset=".5" stop-color="gray" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="icon-link">
+    <g id="Vector">
+      <path class="cls-1" d="M16,16l2.3-3.5-2.3-.6c-.3-.9-.8-1.7-1.5-2.5-.7-.7-1.5-1.2-2.5-1.5h0s-2.8,0-2.8,0h-1.2c-.9.4-1.8.9-2.5,1.6l-3.7,3.7c-2.5,2.5-2.5,6.5,0,8.9,2.5,2.5,6.5,2.4,9,0l3.7-3.7c.7-.7,1.2-1.6,1.5-2.5ZM8.3,19.7c-1.1,1.1-2.9,1.1-4,0-1.1-1.1-1.1-2.9,0-4l3.7-3.6,2,2,2,2-3.7,3.7Z"/>
+      <path class="cls-2" d="M9.2,7.9h-1.2c-.9.4-1.8.9-2.5,1.6l-3.7,3.7c-2.5,2.5-2.5,6.5,0,8.9,1.3,1.3,2.9,1.9,4.5,1.9s3.3-.6,4.5-1.9l3.7-3.7c.7-.7,1.2-1.6,1.5-2.5l2.3-3.5-2.3-.6c-.3-.9-.8-1.7-1.5-2.5-.7-.7-1.5-1.2-2.5-1.5h0s-2.8,0-2.8,0h0ZM6.3,20.5c-.7,0-1.4-.3-2-.8-1.1-1.1-1.1-2.9,0-4l3.7-3.6,2,2,2,2-3.7,3.7c-.6.6-1.3.8-2,.8h0Z"/>
+    </g>
+    <path id="Vector_2" data-name="Vector 2" class="cls-4" d="M14.5,18.5l-3.7,3.7c-2.4,2.4-6.4,2.5-9,0l2.5-2.5c1.1,1.1,2.9,1.1,4,0l3.7-3.7-2-2,4.5-4.5c.7.7,1.2,1.6,1.5,2.5l2.3.6-2.3,3.5c-.3.9-.8,1.7-1.5,2.5Z"/>
+    <path id="Vector_3" data-name="Vector 3" class="cls-6" d="M19.5,20.5l-1-1c-.3-.3-.3-.7,0-1,.3-.3.7-.3,1,0l1,1c.3.3.3.7,0,1-.3.3-.7.3-1,0Z"/>
+    <path id="Vector_4" data-name="Vector 4" class="cls-6" d="M4.5,5.5l-1-1c-.3-.3-.3-.7,0-1,.3-.3.7-.3,1,0l1,1c.3.3.3.7,0,1-.3.3-.7.3-1,0Z"/>
+    <path id="Vector_5" data-name="Vector 5" class="cls-6" d="M20.8,14.4c.1-.4.5-.6.9-.5l1.4.4c.4,0,.6.5.5.9-.1.4-.5.6-.9.5l-1.4-.4c-.4,0-.6-.5-.5-.9Z"/>
+    <path id="Vector_6" data-name="Vector 6" class="cls-6" d="M.5,8.9c.1-.4.5-.6.9-.5l1.4.4c.4,0,.6.5.5.9-.1.4-.5.6-.9.5l-1.4-.4c-.4,0-.6-.5-.5-.9Z"/>
+    <path id="Vector_7" data-name="Vector 7" class="cls-6" d="M14.2,23.1l-.4-1.4c-.1-.4.1-.8.5-.9.4-.1.8.1.9.5l.4,1.4c.1.4-.1.8-.5.9-.4.1-.8-.1-.9-.5Z"/>
+    <path id="Vector_8" data-name="Vector 8" class="cls-6" d="M8.8,2.7l-.4-1.4c-.1-.4.1-.8.5-.9.4,0,.8.1.9.5l.4,1.4c.1.4-.1.8-.5.9-.4.1-.8-.1-.9-.5Z"/>
+    <path id="Vector_9" data-name="Vector 9" class="cls-3" d="M22.2,1.9c-2.5-2.5-6.5-2.5-9,0l-3.7,3.7c-.7.7-1.2,1.6-1.5,2.5-.4,1.3-.4,2.7,0,4,.3.9.8,1.7,1.5,2.5s1.5,1.2,2.5,1.5h0c1.1-1.1,1.1-2.9,0-4-1.1-1.1-1.1-2.9,0-4l3.7-3.7c.5-.5,1.2-.8,2-.8,0,0,.2,0,.2,0,.5,0,1.2.3,1.8.8,1.1,1.1,1.1,2.9,0,4l-3.7,3.6c.4,1.3.4,2.7,0,4,.9-.3,1.8-.8,2.5-1.5l3.7-3.7c2.5-2.5,2.5-6.5,0-9Z"/>
+    <g id="Group">
+      <path id="Vector_10" data-name="Vector 10" class="cls-3" d="M12,16h0c-.9-.3-1.8-.8-2.5-1.5l2.5-2.5c1.1,1.1,1.1,2.9,0,4Z"/>
+      <path id="Vector_11" data-name="Vector 11" class="cls-5" d="M22.2,10.8l-3.7,3.7c-.7.7-1.6,1.2-2.5,1.5.4-1.3.4-2.7,0-4l3.7-3.6c1.1-1.1,1.1-2.9,0-4l2.5-2.5c2.5,2.5,2.5,6.5,0,9Z"/>
+    </g>
+  </g>
+</svg>
